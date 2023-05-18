@@ -1,0 +1,31 @@
+.font{
+    height: 90px;
+    /*border: red solid 1px;*/
+    margin-top: 50px;
+    font-size: 30px;
+    font-family: 微软雅黑;
+    font-weight: bold;
+    color: black;
+    text-align: center;
+}
+
+.container-fluid {
+    width: 65%;
+    margin: 0px auto;
+    max-width: 94%;
+}
+
+.container-fluid {
+    width: 65%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.card-columns{
+    /*border: red solid 10px;*/
+    padding-top: 50px;
+    padding-left: 100px;
+    padding-right: 100px;
+    /*width: 1000px;*/
+}
